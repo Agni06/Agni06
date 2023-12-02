@@ -1,4 +1,39 @@
 ### Hi there 👋
+Overview
+Welcome to Agni's Git profile! 🚀 I am a passionate and skilled software engineer with expertise in SQL, Java, Python, OOP (Object-Oriented Programming), and DBMS (Database Management Systems). I am dedicated to delivering high-quality solutions and have a strong foundation in building robust and scalable applications.
+
+Skills
+Programming Languages
+Java: Proficient in developing enterprise-level applications using Java. Experience in Spring framework for building scalable and maintainable systems.
+
+Python: Skilled in Python for data analysis, scripting, and web development. Familiar with popular frameworks like Django and Flask.
+
+Database Technologies
+SQL: Strong command over SQL for efficient database management and data manipulation. Experience in designing complex database structures.
+
+DBMS: Proficient in Database Management Systems, including MySQL and PostgreSQL. Skilled in optimizing database performance and ensuring data integrity.
+
+Object-Oriented Programming (OOP)
+OOP Concepts: In-depth understanding and application of OOP principles for designing modular and maintainable code. Skilled in creating class hierarchies and encapsulating functionality.
+Projects
+Project 1: Java E-Commerce Platform
+Developed a scalable e-commerce platform using Java and Spring framework.
+Implemented secure user authentication, product catalog management, and order processing.
+Utilized OOP principles for creating a modular and extensible codebase.
+Project 2: Python Data Analysis Tool
+Created a data analysis tool in Python for processing and visualizing large datasets.
+Used pandas and matplotlib to analyze trends and patterns in the data.
+Implemented a user-friendly interface for easy interaction.
+Project 3: Database Optimization for a Healthcare System
+Optimized the database schema and queries for a healthcare system using SQL.
+Improved query performance and reduced response times for critical operations.
+Ensured data consistency and integrity.
+Contact
+I am actively seeking new opportunities to contribute my skills and expertise. If you are a recruiter looking for a dedicated and results-driven software engineer, feel free to reach out to me:
+
+LinkedIn: Agni's LinkedIn
+Email: charantejaagni@gmail.com
+Thank you for visiting my profile, and I look forward to connecting with you! 🔥
 
 <!--
 **Agni06/Agni06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
