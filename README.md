@@ -31,7 +31,7 @@ Ensured data consistency and integrity.
 Contact
 I am actively seeking new opportunities to contribute my skills and expertise. If you are a recruiter looking for a dedicated and results-driven software engineer, feel free to reach out to me:
 
-LinkedIn: Agni's LinkedIn
+LinkedIn: www.linkedin.com/in/agni6
 Email: charantejaagni@gmail.com
 Thank you for visiting my profile, and I look forward to connecting with you! 🔥
 
